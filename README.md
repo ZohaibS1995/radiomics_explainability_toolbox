@@ -12,17 +12,17 @@ The Radiomics Explainability Toolbox is a comprehensive utility for enhancing th
 
    ![Heatmap Generation](images/heatmap_generation.png)
 
-3. **In Silico Trial - Streamlit Application:** This Streamlit application facilitates in silico trials. It guides users through usability testing, clinical trials with AI models, and AI models with explanations. The application includes a landing page, initialization, usability test, AI trial, AI + explanation trial, final pages, and an end questionnaire.
-
-   ![In Silico Trial](images/in_silico_trial.png)
-
-4. **Post-Hepatectomy Liver Failure Prediction with Counterfactual Explanations:** This tool focuses on predicting post-hepatectomy liver failure using Shear Wave Elastography (SWE) images. It employs a Variational Autoencoder (VAE) and a Multi-Layer Perceptron (MLP) classifier, along with counterfactual explanations, to enhance model interpretability.
+3. **Post-Hepatectomy Liver Failure Prediction with Counterfactual Explanations:** This tool focuses on predicting post-hepatectomy liver failure using Shear Wave Elastography (SWE) images. It employs a Variational Autoencoder (VAE) and a Multi-Layer Perceptron (MLP) classifier, along with counterfactual explanations, to enhance model interpretability.
 
    ![Counterfactual Explanations](images/counterfactual_explanations.png)
 
-5. **Post-Hepatectomy Liver Failure Prediction with Counterfactual Explanations and Layerwise Relevance Propagation (LRP):** This tool extends the previous tool by adding Layerwise Relevance Propagation (LRP) explanations. It enables the interpretation of the model's predictions through LRP local and global plots in addition to counterfactual explanations.
+4. **Post-Hepatectomy Liver Failure Prediction with Counterfactual Explanations and Layerwise Relevance Propagation (LRP):** This tool extends the previous tool by adding Layerwise Relevance Propagation (LRP) explanations. It enables the interpretation of the model's predictions through LRP local and global plots in addition to counterfactual explanations.
 
    ![LRP Explanations](images/lrp_explanations.png)
+   
+5. **In Silico Trial - Streamlit Application:** This Streamlit application facilitates in silico trials. It guides users through usability testing, clinical trials with AI models, and AI models with explanations. The application includes a landing page, initialization, usability test, AI trial, AI + explanation trial, final pages, and an end questionnaire.
+
+   ![In Silico Trial](images/in_silico_trial.png)
 
 ## Getting Started
 

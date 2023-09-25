@@ -84,7 +84,7 @@ Participants are required to complete an end questionnaire to provide feedback o
 ### Video Instructions
 
 The application includes video instructions that participants can watch before beginning the trial. The video provides additional information and guidance.
-[![Video Instructions]](video.mp4)
+![Video Instructions](video.mp4)
 
 The live version of this application is available at: [https://st-trial-hbhdzvtdqlr.streamlit.app/](https://st-trial-hbhdzvtdqlr.streamlit.app/)
 
