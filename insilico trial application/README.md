@@ -82,9 +82,7 @@ The final pages provide summaries and conclusions for each phase of the trial. P
 Participants are required to complete an end questionnaire to provide feedback on their overall experience in the trial.
 
 ### Video Instructions
-
 The application includes video instructions that participants can watch before beginning the trial. The video provides additional information and guidance.
-![Video Instructions](video.mp4)
 
 The live version of this application is available at: [https://st-trial-hbhdzvtdqlr.streamlit.app/](https://st-trial-hbhdzvtdqlr.streamlit.app/)
 
