@@ -1,0 +1,4 @@
+openpyxl
+google-cloud-firestore
+firebase-admin
+streamlit
